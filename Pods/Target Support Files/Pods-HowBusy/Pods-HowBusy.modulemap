@@ -1,0 +1,6 @@
+framework module Pods_HowBusy {
+  umbrella header "Pods-HowBusy-umbrella.h"
+
+  export *
+  module * { export * }
+}
